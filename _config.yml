@@ -1,0 +1,28 @@
+
+```yaml
+title: TDS Project
+description: The Divan and the Sword – Traceable Decision System
+baseurl: "/tds-project"
+url: "https://hamidrezaasadian7-svg.github.io"
+version: "v0.2"
+status: "Research Prototype"
+
+navigation:
+  - title: خانه
+    url: /
+  - title: کتاب
+    url: /book/
+  - title: مستندات
+    url: /documentation/
+  - title: انتشارات
+    url: /releases/
+  - title: درباره
+    url: /about/
+  - title: تماس
+    url: /contact/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+```
