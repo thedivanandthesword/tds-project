@@ -1,4 +1,3 @@
-
 ```yaml
 title: TDS Project
 description: The Divan and the Sword – Traceable Decision System
@@ -26,3 +25,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 ```
+
+Commit: Add Jekyll configuration
