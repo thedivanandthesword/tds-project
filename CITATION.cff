@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as follows."
+
+title: "The Divan and the Sword (TDS)"
+
+type: software
+
+authors:
+  - family-names: "Asadian Dehaghani"
+    given-names: "Hamidreza"
+    email: "divan.and.sword@gmail.com"
+    affiliation: "Independent Researcher"
+
+repository-code: "https://github.com/thedivanandthesword/tds-project"
+
+url: "https://thedivanandthesword.github.io/tds-project/"
+
+abstract: "Official website and documentation for The Divan and the Sword research project."
+
+license: "CC-BY-SA-4.0"
