@@ -1,22 +1,27 @@
-title: "The Divan and the Sword (TDS)"
-description: "Official website and documentation for The Divan and the Sword (TDS) research project."
+📋 وضعیت فایل config.yml
 
-url: "https://thedivanandthesword.github.io"
-baseurl: "/tds-project"
+فایل:
+  - config.yml
 
-repository: "thedivanandthesword/tds-project"
+وضعیت:
+  - VERIFIED ✅
+  - تنظیمات فعلی صحیح و پایدار هستند.
+  - GitHub Pages بدون مشکل فعال است.
+  - هیچ شواهدی مبنی بر نیاز به تغییر این فایل وجود ندارد.
 
-author:
-  name: "Hamidreza Asadian Dehaghani"
-  email: "divan.and.sword@gmail.com"
+تصمیم عملیاتی:
+  - فعلاً هیچ تغییری در config.yml انجام نخواهد شد.
+  - تا زمان دریافت DOI یا مشاهدهٔ نیاز واقعی، وارد این فایل نخواهیم شد.
 
-github:
-  username: "thedivanandthesword"
+اقدام بعدی:
+  - تمرکز فعلی فقط بر بررسی Zenodo برای صدور DOI است.
+  - پس از دریافت DOI، بررسی خواهد شد که آیا تنها README.md و CITATION.cff نیاز به به‌روزرسانی دارند یا تغییری در config.yml نیز واقعاً لازم است.
+  - اگر هیچ نیاز فنی یا شواهد جدیدی وجود نداشته باشد، config.yml بدون تغییر باقی خواهد ماند.
 
-lang: en
-timezone: Europe/Berlin
+اصل حاکم:
+  - Rule Zero
+  - Evidence Before Status
 
-markdown: kramdown
-highlighter: rouge
-
-permalink: pretty
+نتیجه:
+  - امروز هیچ تغییری در config.yml، README.md یا CITATION.cff انجام نمی‌شود.
+  - تصمیم‌گیری برای هرگونه تغییر، فقط پس از دریافت شواهد جدید از Zenodo انجام خواهد شد.
