@@ -1,4 +1,4 @@
-title: "The Divan and the Sword (TDS)"
+title: "The Divan and the Sword"
 description: "An international research project on political tradition, bureaucracy, and political survival in the Iranian tradition."
 
 url: "https://thedivanandthesword.github.io"
@@ -44,6 +44,14 @@ keywords:
   - state formation
   - historical sociology
   - political survival
+
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - book.md
+  - documents.md
+  - roadmap.md
 
 markdown: kramdown
 highlighter: rouge
