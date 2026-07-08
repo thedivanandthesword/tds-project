@@ -36,11 +36,11 @@ TDS develops openly accessible scholarly resources, documentation, and research 
 
 ## How to Cite
 
-Until the DOI is issued, please cite the GitHub repository (release v1.0.0) as follows:
+Until the DOI is issued, please cite the GitHub repository (Version 1.0.0) as follows:
 
-> Asadian Dehaghani, Hamid Reza. (2026). *The Divan and the Sword (TDS)* (v1.0.0) [Computer software]. GitHub. https://github.com/thedivanandthesword/tds-project/releases/tag/v1.0.0. Accessed: 2026-07-08.
+> Asadian Dehaghani, Hamid Reza. (2026). *The Divan and the Sword (TDS)* (Version 1.0.0). GitHub repository. Available at: https://github.com/thedivanandthesword/tds-project/releases/tag/v1.0.0 (accessed July 8, 2026).
 
-*(Formal citation with DOI will be added upon finalization of P1.)*
+*Formal citation with DOI will be added upon finalization of P1.*
 
 ---
 
@@ -49,7 +49,7 @@ Until the DOI is issued, please cite the GitHub repository (release v1.0.0) as f
 - **Rule Zero:** No statement without evidence.
 - **Evidence Before Status:** Status changes only after evidence is provided.
 - **Repository First:** All changes must be visible in the repository.
-- **Atomic Commits:** Each change in a single, documented commit.
+- **Atomic Commits:** Each change should be documented in a single commit.
 
 ---
 
@@ -61,5 +61,4 @@ This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 I
 
 ---
 
-*پرچم برافراشته، شمشیر کشیده، دیوان در حرکت.* 🚀  
-*Building open, evidence-based scholarship for future research.*
+*Advancing open, evidence-based scholarship.* 🚀
