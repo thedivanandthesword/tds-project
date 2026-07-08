@@ -32,6 +32,15 @@
       {% if site.description %}
       <p>{{ site.description }}</p>
       {% endif %}
+
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about.html' | relative_url }}">About</a>
+        <a href="{{ '/research.html' | relative_url }}">Research</a>
+        <a href="{{ '/book.html' | relative_url }}">Book</a>
+        <a href="{{ '/documents.html' | relative_url }}">Documents</a>
+        <a href="{{ '/roadmap.html' | relative_url }}">Roadmap</a>
+      </nav>
     </div>
   </header>
 
@@ -42,16 +51,22 @@
   <footer class="site-footer">
     <div class="container">
       <p>
-        © {{ "now" | date: "%Y" }} Hamidreza Asadian Dehaghani
+        © {{ "now" | date: "%Y" }} {{ site.author.name }}
       </p>
 
       <p>
-        <strong>The Divan and the Sword (TDS)</strong>
+        <strong>{{ site.title }}</strong>
       </p>
 
       <p>
-        An international research project on political tradition,
-        bureaucracy, and political survival in the Iranian tradition.
+        {{ site.description }}
+      </p>
+
+      <p>
+        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> ·
+        <a href="{{ site.github.pages_url }}">Website</a> ·
+        <a href="https://github.com/{{ site.repository }}">GitHub</a> ·
+        <a href="{{ site.license.url }}">{{ site.license.short_name }}</a>
       </p>
     </div>
   </footer>
