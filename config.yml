@@ -1,27 +1,52 @@
-📋 وضعیت فایل config.yml
+title: "The Divan and the Sword (TDS)"
+description: "An international research project on political tradition, bureaucracy, and political survival in the Iranian tradition."
 
-فایل:
-  - config.yml
+url: "https://thedivanandthesword.github.io"
+baseurl: "/tds-project"
 
-وضعیت:
-  - VERIFIED ✅
-  - تنظیمات فعلی صحیح و پایدار هستند.
-  - GitHub Pages بدون مشکل فعال است.
-  - هیچ شواهدی مبنی بر نیاز به تغییر این فایل وجود ندارد.
+repository: "thedivanandthesword/tds-project"
 
-تصمیم عملیاتی:
-  - فعلاً هیچ تغییری در config.yml انجام نخواهد شد.
-  - تا زمان دریافت DOI یا مشاهدهٔ نیاز واقعی، وارد این فایل نخواهیم شد.
+author:
+  name: "Hamidreza Asadian Dehaghani"
+  email: "divan.and.sword@gmail.com"
+  orcid: "https://orcid.org/0009-0001-5921-5698"
 
-اقدام بعدی:
-  - تمرکز فعلی فقط بر بررسی Zenodo برای صدور DOI است.
-  - پس از دریافت DOI، بررسی خواهد شد که آیا تنها README.md و CITATION.cff نیاز به به‌روزرسانی دارند یا تغییری در config.yml نیز واقعاً لازم است.
-  - اگر هیچ نیاز فنی یا شواهد جدیدی وجود نداشته باشد، config.yml بدون تغییر باقی خواهد ماند.
+github:
+  username: "thedivanandthesword"
+  repository: "tds-project"
+  pages_url: "https://thedivanandthesword.github.io/tds-project/"
 
-اصل حاکم:
-  - Rule Zero
-  - Evidence Before Status
+license:
+  name: "Creative Commons Attribution-ShareAlike 4.0 International"
+  short_name: "CC BY-SA 4.0"
+  url: "https://creativecommons.org/licenses/by-sa/4.0/"
 
-نتیجه:
-  - امروز هیچ تغییری در config.yml، README.md یا CITATION.cff انجام نمی‌شود.
-  - تصمیم‌گیری برای هرگونه تغییر، فقط پس از دریافت شواهد جدید از Zenodo انجام خواهد شد.
+project:
+  status: "pre-DOI"
+  version: "1.0.1"
+  release: "v1.0.1"
+  release_title: "Version 1.0.1 – Scholarly Readiness Preparation"
+
+zenodo:
+  status: "pending DOI"
+  doi: ""
+
+social:
+  preview_image: "/assets/images/social-preview.png"
+  logo: "/assets/images/logo/tds-logo.png"
+
+keywords:
+  - political science
+  - iranian studies
+  - bureaucracy
+  - political history
+  - governance
+  - state formation
+  - historical sociology
+  - political survival
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+timezone: Europe/Berlin
+lang: en
