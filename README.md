@@ -1,91 +1,100 @@
 # The Divan and the Sword (TDS)
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Active-brightgreen)](https://thedivanandthesword.github.io/tds-project/)
-
-## Project Overview
-
-**The Divan and the Sword (TDS)** is an independent international academic research project exploring Iranian political tradition, bureaucracy, state formation, and political survival across history.
-
-The project combines historical research, institutional analysis, and digital humanities to investigate how governance structures emerge, evolve, and endure over time.
-
-This repository serves as the official website and public documentation hub for the project.
+An international research project on political tradition, bureaucracy, and political survival in the Iranian tradition.
 
 ---
 
-## Research Focus
+## Project
 
-The project explores questions including:
+The Divan and the Sword (TDS) is an independent scholarly research project investigating the historical evolution of governance, bureaucracy, and political survival in the Iranian tradition.
 
-- The historical evolution of the Iranian Divan
-- Bureaucratic institutions and administrative continuity
-- Political authority and state resilience
-- Institutional memory
-- Networks of governance
-- Historical state formation in the Iranian world
+The project combines historical research, rigorous source verification, transparent documentation, and reproducible research workflows.
 
 ---
 
 ## Website
 
-Official project website:
-
 https://thedivanandthesword.github.io/tds-project/
 
 ---
 
-## Repository Purpose
-
-This repository contains:
-
-- GitHub Pages website
-- Jekyll configuration
-- Website layouts
-- Public project documentation
-- Development roadmap
-- Public project resources
-
----
-
-## Project Status
-
-Current phase:
-
-**Sprint 1 — P0 Stabilization**
-
-Current priorities:
-
-- Repository stabilization
-- Documentation
-- Website maintenance
-- Citation readiness
-- Public release preparation
-
----
-
-## Contact
-
-Project Founder
+## Author
 
 **Hamidreza Asadian Dehaghani**
 
-Email:
-
-divan.and.sword@gmail.com
+ORCID: https://orcid.org/0009-0001-5921-5698
 
 ---
 
-## Citation
+## Repository
 
-Citation information will be provided after the first public academic release.
+Official GitHub repository:
+
+https://github.com/thedivanandthesword/tds-project
+
+---
+
+## Scope
+
+This repository provides public documentation, research materials, project metadata, and supporting resources for The Divan and the Sword (TDS) project.
 
 ---
 
 ## License
 
-The project license will be published with the first official public release.
+This project is released under the Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0) License.
 
 ---
 
-**The Divan and the Sword**
+## How to Cite
 
-*An independent academic research initiative exploring governance, bureaucracy, and political continuity in the Iranian tradition.*
+A Zenodo DOI will be added here after the next public release is archived.
+
+**Temporary citation (until DOI is assigned):**
+
+> Hamidreza Asadian Dehaghani. (2026). *The Divan and the Sword (TDS) Project* (Version 1.0.1). GitHub. https://github.com/thedivanandthesword/tds-project
+
+---
+
+## Research Areas
+
+- Political Science
+- Iranian Studies
+- Bureaucracy
+- Political History
+- Governance
+- State Formation
+- Historical Sociology
+- Political Survival
+
+---
+
+## Project Status
+
+**Status as of 2026-07-08**
+
+### Completed
+
+- ✅ GitHub Repository
+- ✅ GitHub Pages
+- ✅ About (Description, Website, and Topics)
+- ✅ Project Website
+- ✅ ORCID Profile
+- ✅ Unified Author Identity
+- ✅ GitHub Logo
+- ✅ Social Preview
+- ✅ Zenodo Integration
+- ✅ README.md (pre-DOI version)
+
+### Pending
+
+- ⏳ Zenodo DOI
+- ⏳ Final citation metadata after DOI assignment
+- ⏳ DOI Badge
+- ⏳ Final update of `CITATION.cff`
+
+---
+
+## Contact
+
+divan.and.sword@gmail.com
