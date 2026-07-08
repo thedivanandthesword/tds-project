@@ -1,0 +1,51 @@
+---
+layout: default
+title: About: The Divan and the Sword
+description: Learn about the mission, vision, governance, and long-term goals of The Divan and the Sword (TDS).
+---
+
+# About The Divan and the Sword
+
+## Overview
+
+**The Divan and the Sword (TDS)** is an independent scholarly research project dedicated to the study of Iranian political tradition, administrative history, institutional continuity, and the intellectual heritage of the Persianate world. The project examines the relationship between poetic expression and political authority as a lens for understanding governance, institutional continuity, and cultural production across historical periods.
+
+## Mission
+
+The mission of TDS is to advance rigorous scholarship on governance, political authority, and administrative institutions in the Iranian tradition while promoting transparent research practices and openly documented scholarship.
+
+## Vision
+
+TDS envisions a future where research on Iranian political tradition and Persianate intellectual heritage is:
+
+- **Openly accessible**
+- **Reproducible**
+- **Transparent in its methods and sources**
+- **Supported by sustainable digital infrastructure**
+- **Open to scholarly collaboration**
+- **Long-term preservation of research outputs**
+
+## Project Governance
+
+Project governance is documented through dedicated governance documents and Architecture Decision Records (ADRs).
+
+The website provides an overview of the project, while the repository serves as the primary record for governance, documentation, and architectural decisions.
+
+## Contact
+
+Questions, comments, and scholarly feedback are welcome.
+
+- **GitHub:** [The Divan and the Sword Repository](https://github.com/thedivanandthesword/tds-project)
+- **Email:** [divan.and.sword@gmail.com](mailto:divan.and.sword@gmail.com)
+
+## Related Pages
+
+- [Home]({{ '/index.html' | relative_url }})
+- [Research]({{ '/research.html' | relative_url }})
+- [Book]({{ '/book.html' | relative_url }})
+- [Documents]({{ '/documents.html' | relative_url }})
+- [Roadmap]({{ '/roadmap.html' | relative_url }})
+
+---
+
+*Committed to transparent, evidence-based scholarship on Iranian political tradition and the Persianate world.*
