@@ -8,7 +8,7 @@ baseurl: "/tds-project"
 repository: "thedivanandthesword/tds-project"
 
 author:
-  name: "Hamid Reza Asadian Dehaghani"
+  name: "Hamidreza Asadian Dehaghani"
   email: "divan.and.sword@gmail.com"
   orcid: "https://orcid.org/0009-0001-5921-5698"
 
@@ -25,17 +25,18 @@ theme: minima
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 markdown: kramdown
 highlighter: rouge
 
 permalink: pretty
 
-timezone: Europe/Berlin
+timezone: "Europe/Berlin"
+lang: "en"
 
-lang: en
+show_downloads: false
 
 defaults:
   -
@@ -46,24 +47,25 @@ defaults:
 
 exclude:
   - README.md
-  - RELEASE.md
-  - CHANGELOG.md
-  - STATUS.md
   - LICENSE
-  - Gemfile
-  - Gemfile.lock
-  - vendor/
-  - node_modules/
+  - RELEASE_GUIDE.md
+  - VERIFY_RELEASE.md
+  - GITHUB_RELEASE.md
+  - GITHUB_STATUS.md
+  - CHANGELOG.md
+  - VERSIONING.md
+  - CITATION.cff
 
 collections: {}
 
-social_links:
-  github: thedivanandthesword
+version: "1.0.1"
+release: "First Official Release"
+last_updated: "2026-07-09"
 
 logo: "/assets/images/logo/tds-logo.png"
 
-show_downloads: false
-
-future: false
-
-safe: true
+footer_links:
+  repository: "https://github.com/thedivanandthesword/tds-project"
+  website: "https://thedivanandthesword.github.io/tds-project/"
+  contact: "mailto:divan.and.sword@gmail.com"
+  orcid: "https://orcid.org/0009-0001-5921-5698"
