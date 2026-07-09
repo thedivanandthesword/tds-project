@@ -1,35 +1,89 @@
-# The Divan and the Sword
+# The Divan and the Sword (TDS)
 
-**The Divan and the Sword (TDS)** is an independent scholarly research project dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world.
+**An independent scholarly research project on Iranian political tradition, bureaucracy, governance, and the Persianate world.**
 
-## Overview
+---
 
-This project explores the relationship between political authority, administrative institutions, and cultural-intellectual traditions in Iranian and Persianate history.
+## 📖 About the Project
 
-## Project Focus
+**The Divan and the Sword (TDS)** is an independent scholarly research project dedicated to the study of political authority, administrative institutions, and intellectual traditions in Iranian and Persianate history.
 
-- Iranian political tradition
+The project adopts an **evidence-based approach** and is built on principles of transparency, traceability, and scholarly rigor. It brings together historical sources, bibliographic data, and digital humanities methods to explore continuity and change in governance and political thought.
+
+---
+
+## 🎯 Research Focus
+
+- Iranian political tradition and statecraft
 - Bureaucracy and administrative history
 - Governance and institutional continuity
 - Persianate intellectual and cultural worlds
 - Historical sources and evidence-based scholarship
 
-## Website
+---
 
-Official website:
+## 🌐 Project Website
 
-https://thedivanandthesword.github.io/tds-project/
+The official project website is available at:
 
-## Contact
+**https://thedivanandthesword.github.io/tds-project/**
+
+---
+
+## 📁 Repository Structure
+
+```text
+tds-project/
+├── _config.yml          # Jekyll site configuration
+├── index.md             # Homepage
+├── README.md            # Project overview
+├── CONTACT.md           # Contact information
+├── LICENSE              # License
+├── CITATION.cff         # Citation metadata
+└── _layouts/            # Site layouts
+```
+
+---
+
+## 📌 Current Status
+
+- **Development Status:** Active
+- **Governance:** Stable, evidence-based
+- **Documentation:** Continuously maintained
+
+---
+
+## 🔍 Governance Principles
+
+This project follows a strict evidence-based governance framework:
+
+1. No status change without objective evidence.
+2. The baseline is stable but revisable when justified by evidence.
+3. Major decisions are reviewed at documented milestones.
+4. Transparency, traceability, and scholarly integrity guide all development.
+
+---
+
+## 📬 Contact
 
 Questions, comments, and scholarly feedback are welcome.
 
-Email: divan.and.sword@gmail.com
+- **Email:** divan.and.sword@gmail.com
+- **GitHub:** https://github.com/thedivanandthesword/tds-project
+- **Website:** https://thedivanandthesword.github.io/tds-project/
 
-## Repository Status
+---
 
-This repository serves as the public documentation and website source for the TDS project.
+## 📄 License
 
-## License
+This project is released under the **Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)** License.
 
 See the `LICENSE` file for details.
+
+---
+
+## 🏛️ Citation
+
+Citation metadata is provided in the `CITATION.cff` file.
+
+If you use this project in research, please cite it using the metadata provided in that file.
