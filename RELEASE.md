@@ -1,35 +1,70 @@
-TDS v1.0.1
-The Divan and the Sword
-This release marks the formal publication of The Divan and the Sword (TDS) v1.0.1 as a documented project baseline.
-Release Summary
-TDS v1.0.1 finalizes the core public documentation, project metadata, citation information, website configuration, and release checklist for the project.
-Included in this Release
-Finalized README.md
-Finalized STATUS.md
-Finalized CITATION.cff
-Finalized _config.yml
-Added RELEASE.md
-Confirmed project website metadata
-Confirmed license information: CC BY-SA 4.0
-Prepared repository for DOI registration through Zenodo
-Project Website
+## TDS v1.0.1 — First Official Release
+
+This is the first official release of **The Divan and the Sword (TDS)**, an independent scholarly research project dedicated to the study of Iranian political tradition, bureaucracy, governance, political authority, and the Persianate world.
+
+## Highlights
+
+- Established the initial public project website.
+- Finalized the core project documentation.
+- Added complete citation metadata (`CITATION.cff`).
+- Improved repository documentation and organization.
+- Added release documentation and release notes.
+- Prepared the repository for Zenodo archival and DOI assignment.
+- The project is licensed under the Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0).
+
+## Documentation
+
+This release includes:
+
+- `README.md`
+- `about.md`
+- `CONTACT.md`
+- `STATUS.md`
+- `RELEASE.md`
+- `RELEASE_GUIDE.md`
+- `CHANGELOG.md`
+- `RELEASE_NOTES/v1.0.1.md`
+- `CITATION.cff`
+- `LICENSE`
+
+## Project Scope
+
+The project investigates:
+
+- Iranian political tradition
+- Bureaucracy and administrative history
+- Governance and political authority
+- Institutional continuity and change
+- The Persianate world
+- Historical source analysis
+- Research methodology and transparent documentation
+
+## Notes
+
+This release focuses on documentation, project infrastructure, and publication readiness.
+
+No research content, datasets, analytical results, or software functionality have changed in this release.
+
+A Zenodo DOI will be assigned after archival and added to the repository in a separate commit.
+
+---
+
+**Release Version:** v1.0.1  
+**Release Date:** 2026-07-09
+
+**Project Website:**  
 https://thedivanandthesword.github.io/tds-project/
-Repository
+
+**Repository:**  
 https://github.com/thedivanandthesword/tds-project
-License
-Creative Commons Attribution-ShareAlike 4.0 International
-CC BY-SA 4.0
-Citation
-Citation metadata is provided in CITATION.cff.
-Release Status
-Status: Ready / Published
-Version: v1.0.1
-Release type: Documentation and metadata baseline
-Next Steps
-Verify GitHub Pages build
-Connect repository to Zenodo
-Receive DOI
-Update README.md, CITATION.cff, STATUS.md, and RELEASE.md with DOI
-Add DOI badge to README.md
-Notes
-This release establishes a stable public reference point for the project before DOI assignment.
+
+**License:**  
+Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)
+
+**Author:**  
+Hamid Reza Asadian Dehaghani  
+ORCID: https://orcid.org/0009-0001-5921-5698
+
+---
+
+Thank you to everyone supporting the development of **The Divan and the Sword (TDS)**. This release establishes the project's first stable, publicly documented, and citable foundation for future scholarly development.
