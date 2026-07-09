@@ -1,95 +1,49 @@
-The Divan and the Sword (TDS)
+---
+layout: default
+title: The Divan and the Sword (TDS)
+description: An independent scholarly research project dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world.
+---
+
+# The Divan and the Sword (TDS)
 
 An independent scholarly research project dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world.
 
-Overview
+## Mission
 
-The Divan and the Sword (TDS) is an independent scholarly research project that investigates the historical development of governance, political authority, administrative institutions, and statecraft in the Iranian tradition. The project combines historical research with transparent documentation and open scholarly practices to make its methods, sources, and findings accessible.
+The Divan and the Sword (TDS) promotes rigorous, transparent, and evidence-based research on governance, political authority, administrative institutions, and the intellectual heritage of the Persianate world.
 
-Mission
+## Project Resources
 
-The mission of TDS is to advance rigorous, evidence-based research on Iranian political tradition while promoting openness, transparency, reproducibility, and responsible scholarly communication.
+- [About]({{ "/about/" | relative_url }})
+- [Project Status](STATUS.md)
+- [Release Information](RELEASE.md)
+- [Release Guide](RELEASE_GUIDE.md)
+- [Release Notes](RELEASE_NOTES/v1.0.1.md)
+- [GitHub Release Guide](GITHUB_RELEASE.md)
+- [GitHub Status](GITHUB_STATUS.md)
+- [Contact](CONTACT.md)
 
-Research Scope
+## Citation
 
-The project focuses on:
+Citation metadata is provided in `CITATION.cff`.
 
-Iranian political tradition
+A Zenodo DOI will be added after the first official release.
 
-Administrative and bureaucratic history
+## License
 
-Governance and state institutions
+This project is licensed under the Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0).
 
-Political authority and legitimacy
+## Repository
 
-Institutional continuity and change
+**GitHub Repository**
 
-The Persianate world
+https://github.com/thedivanandthesword/tds-project
 
-Historical source analysis
+**Project Website**
 
-Research methodology and documentation
+https://thedivanandthesword.github.io/tds-project/
 
-Project Status
+---
 
-Current Release: v1.0.1
-
-Current development includes:
-
-Public project website
-
-Complete project documentation
-
-Citation metadata
-
-Open licensing
-
-GitHub repository
-
-Preparation for DOI registration
-
-Project Resources
-
-Website: https://thedivanandthesword.github.io/tds-project/
-
-Repository: https://github.com/thedivanandthesword/tds-project
-
-Contact: divan.and.sword@gmail.com
-
-Documentation
-
-Project documentation includes:
-
-README
-
-About
-
-Contact
-
-Status
-
-Citation metadata
-
-Release documentation
-
-License information
-
-Citation
-
-Citation metadata is provided through the CITATION.cff file. Please cite the project using the recommended citation format when referencing its work.
-
-License
-
-This project is distributed under the Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0) license.
-
-Acknowledgements
-
-TDS is developed as an independent scholarly initiative committed to transparent research, careful documentation, and the long-term study of governance and political institutions in the Iranian tradition.
-
-Contact
-
-Questions, comments, and scholarly feedback are welcome.
-
-Email: divan.and.sword@gmail.com
-
-Last updated: July 2026
+**Version:** v1.0.1  
+**Last Updated:** 2026-07-09
