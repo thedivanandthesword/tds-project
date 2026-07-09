@@ -21,27 +21,49 @@ license:
   short_name: "CC BY-SA 4.0"
   url: "https://creativecommons.org/licenses/by-sa/4.0/"
 
-project:
-  name: "The Divan and the Sword"
-  acronym: "TDS"
-  version: "1.0.1"
+theme: minima
 
-social:
-  email: "divan.and.sword@gmail.com"
-  github: "https://github.com/thedivanandthesword/tds-project"
-  website: "https://thedivanandthesword.github.io/tds-project/"
-  facebook: "https://www.facebook.com/thedivanandthesword"
-  instagram: "https://www.instagram.com/thedivanandthesword/"
-  orcid: "https://orcid.org/0009-0001-5921-5698"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: pretty
+
+timezone: Europe/Berlin
+
+lang: en
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - RELEASE.md
+  - CHANGELOG.md
+  - STATUS.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
+
+collections: {}
+
+social_links:
+  github: thedivanandthesword
 
 logo: "/assets/images/logo/tds-logo.png"
 
-keywords: "Iranian studies, political tradition, bureaucracy, governance, Persianate world, administrative history, political history, digital humanities"
+show_downloads: false
 
-header_pages:
-  - index.md
-  - about.md
-  - research.md
-  - book.md
-  - documents.md
-  - roadmap.md
+future: false
+
+safe: true
