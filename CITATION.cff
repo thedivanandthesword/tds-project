@@ -1,4 +1,5 @@
 cff-version: 1.2.0
+
 message: "If you use this project in your research, please cite it as follows."
 
 authors:
@@ -9,17 +10,21 @@ authors:
 
 title: "The Divan and the Sword"
 version: "1.0.1"
+date-released: 2026-07-09
 
-url: "https://thedivanandthesword.com"
-repository-code: "https://github.com/hamidrezaasadian7/tds-project"
+url: "https://thedivanandthesword.github.io/tds-project/"
+repository-code: "https://github.com/thedivanandthesword/tds-project"
 
-license: "CC-BY-4.0"
+license: "CC-BY-SA-4.0"
 
 abstract: >
   The Divan and the Sword is an independent scholarly research project
   dedicated to the study of Iranian political tradition, administrative
-  history, institutional continuity, and the intellectual heritage of
-  the Persianate world.
+  history, institutional continuity, governance, and the intellectual
+  heritage of the Persianate world. The project promotes transparent,
+  evidence-based scholarship and open research practices through publicly
+  documented methods, reproducible workflows, and accessible research
+  outputs.
 
 keywords:
   - Iran
@@ -30,6 +35,9 @@ keywords:
   - Persianate world
   - Political institutions
   - Institutional continuity
+  - Political history
+  - State formation
+  - Open scholarship
 
 preferred-citation:
   type: book
@@ -40,4 +48,4 @@ preferred-citation:
   title: "The Divan and the Sword"
   version: "1.0.1"
   year: 2026
-  publisher: "The Divan and the Sword"
+  url: "https://thedivanandthesword.github.io/tds-project/"
