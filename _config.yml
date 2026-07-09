@@ -1,5 +1,5 @@
 title: "The Divan and the Sword"
-description: "An international research project on political tradition, bureaucracy, and political survival in the Iranian tradition."
+description: "An independent scholarly research project on Iranian political tradition, bureaucracy, governance, and the Persianate world."
 
 url: "https://thedivanandthesword.github.io"
 baseurl: "/tds-project"
@@ -7,7 +7,7 @@ baseurl: "/tds-project"
 repository: "thedivanandthesword/tds-project"
 
 author:
-  name: "Hamidreza Asadian Dehaghani"
+  name: "Hamid Reza Asadian Dehaghani"
   email: "divan.and.sword@gmail.com"
   orcid: "https://orcid.org/0009-0001-5921-5698"
 
@@ -22,13 +22,13 @@ license:
   url: "https://creativecommons.org/licenses/by-sa/4.0/"
 
 project:
-  status: "pre-DOI"
+  status: "active"
   version: "1.0.1"
   release: "v1.0.1"
-  release_title: "Version 1.0.1 – Scholarly Readiness Preparation"
+  release_title: "Public Scholarly Release"
 
 zenodo:
-  status: "pending DOI"
+  enabled: true
   doi: ""
 
 social:
@@ -36,14 +36,16 @@ social:
   logo: "/assets/images/logo/tds-logo.png"
 
 keywords:
-  - political science
-  - iranian studies
+  - Iranian political tradition
+  - Iranian studies
+  - Persianate world
   - bureaucracy
-  - political history
   - governance
+  - administrative history
+  - political thought
   - state formation
   - historical sociology
-  - political survival
+  - digital humanities
 
 header_pages:
   - index.md
@@ -52,9 +54,22 @@ header_pages:
   - book.md
   - documents.md
   - roadmap.md
+  - contact.md
 
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
+
 timezone: Europe/Berlin
 lang: en
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
