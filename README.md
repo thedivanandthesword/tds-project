@@ -1,66 +1,66 @@
 # The Divan and the Sword (TDS)
 
+![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)
+![Research](https://img.shields.io/badge/Type-Scholarly%20Research-darkgreen.svg)
+![Evidence](https://img.shields.io/badge/Approach-Evidence--Based-orange.svg)
+
 **An independent scholarly research project on Iranian political tradition, bureaucracy, governance, and the Persianate world.**
 
 ---
 
 ## 📖 About the Project
 
-**The Divan and the Sword (TDS)** is an independent scholarly research project dedicated to the study of political authority, administrative institutions, and intellectual traditions in Iranian and Persianate history.
+**The Divan and the Sword (TDS)** is an independent scholarly research project dedicated to the study of political authority, administrative institutions, and intellectual traditions across Iranian and Persianate history.
 
-The project adopts an **evidence-based approach** and is built on principles of transparency, traceability, and scholarly rigor. It brings together historical sources, bibliographic data, and digital humanities methods to explore continuity and change in governance and political thought.
+The project adopts an **evidence-based methodology** grounded in transparency, traceability, scholarly rigor, and long-term sustainability. It integrates historical sources, bibliographic research, and digital humanities methods to investigate continuity and change in governance, bureaucracy, and political thought.
 
 ---
 
-## 🎯 Research Focus
+## 🎯 Research Areas
 
 - Iranian political tradition and statecraft
 - Bureaucracy and administrative history
 - Governance and institutional continuity
-- Persianate intellectual and cultural worlds
-- Historical sources and evidence-based scholarship
+- Persianate intellectual and cultural history
+- Historical source criticism
+- Digital humanities for historical research
 
 ---
 
 ## 🌐 Project Website
 
-The official project website is available at:
+**Official Website**
 
-**https://thedivanandthesword.github.io/tds-project/**
+https://thedivanandthesword.github.io/tds-project/
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Contents
 
 ```text
 tds-project/
-├── _config.yml          # Jekyll site configuration
-├── index.md             # Homepage
-├── README.md            # Project overview
-├── CONTACT.md           # Contact information
-├── LICENSE              # License
-├── CITATION.cff         # Citation metadata
-└── _layouts/            # Site layouts
+├── _config.yml
+├── _layouts/
+├── index.md
+├── About/
+├── README.md
+├── CONTACT.md
+├── CITATION.cff
+├── LICENSE
+└── ...
 ```
 
 ---
 
-## 📌 Current Status
+## 📌 Project Principles
 
-- **Development Status:** Active
-- **Governance:** Stable, evidence-based
-- **Documentation:** Continuously maintained
+The project is guided by the following principles:
 
----
-
-## 🔍 Governance Principles
-
-This project follows a strict evidence-based governance framework:
-
-1. No status change without objective evidence.
-2. The baseline is stable but revisable when justified by evidence.
-3. Major decisions are reviewed at documented milestones.
-4. Transparency, traceability, and scholarly integrity guide all development.
+- Evidence-based scholarship
+- Transparency and traceability
+- Scholarly integrity
+- Reproducible research practices
+- Long-term documentation and sustainability
 
 ---
 
@@ -69,21 +69,21 @@ This project follows a strict evidence-based governance framework:
 Questions, comments, and scholarly feedback are welcome.
 
 - **Email:** divan.and.sword@gmail.com
-- **GitHub:** https://github.com/thedivanandthesword/tds-project
-- **Website:** https://thedivanandthesword.github.io/tds-project/
+- **GitHub Repository:** https://github.com/thedivanandthesword/tds-project
+- **Project Website:** https://thedivanandthesword.github.io/tds-project/
+
+---
+
+## 📚 Citation
+
+Citation metadata is provided in the `CITATION.cff` file.
+
+If you use this project in your own research, please cite it using the metadata provided there.
 
 ---
 
 ## 📄 License
 
-This project is released under the **Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)** License.
+This project is licensed under the **Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)** License.
 
 See the `LICENSE` file for details.
-
----
-
-## 🏛️ Citation
-
-Citation metadata is provided in the `CITATION.cff` file.
-
-If you use this project in research, please cite it using the metadata provided in that file.
