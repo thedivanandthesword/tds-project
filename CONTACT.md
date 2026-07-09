@@ -11,17 +11,17 @@ Questions, comments, collaborations, and scholarly feedback are welcome.
 
 ## Project
 
-- **Website:** [Official Website](https://thedivanandthesword.github.io/tds-project/)
+- **Website:** https://thedivanandthesword.github.io/tds-project/
 - **Email:** [divan.and.sword@gmail.com](mailto:divan.and.sword@gmail.com)
-- **GitHub:** [thedivanandthesword/tds-project](https://github.com/thedivanandthesword/tds-project)
-- **Facebook:** [Official Facebook Page](https://www.facebook.com/thedivanandthesword)
-- **Instagram:** [@thedivanandthesword](https://www.instagram.com/thedivanandthesword/)
+- **GitHub:** https://github.com/thedivanandthesword/tds-project
+- **Facebook:** https://www.facebook.com/thedivanandthesword
+- **Instagram:** https://www.instagram.com/thedivanandthesword/
 
 ## Project Lead
 
 **Hamid Reza Asadian Dehaghani**
 
-- **ORCID iD:** [0009-0001-5921-5698](https://orcid.org/0009-0001-5921-5698)
+- **ORCID iD:** https://orcid.org/0009-0001-5921-5698
 
 ## Scholarly Communication
 
@@ -33,8 +33,12 @@ The project welcomes:
 - Bibliographic suggestions
 - Questions about the project and its publications
 
-All correspondence is reviewed with an evidence-based approach and in accordance with the project's principles of transparency and scholarly integrity.
+All correspondence is reviewed using an evidence-based approach and in accordance with the project's principles of transparency, scholarly integrity, and open research.
 
 ---
 
-© 2026 The Divan and the Sword (TDS). All rights reserved where applicable.
+**License**
+
+Unless otherwise noted, the content of this project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** License.
+
+© The Divan and the Sword (TDS).
