@@ -1,4 +1,3 @@
-در ادامه یک نسخهٔ کامل، یکپارچه و حرفه‌ای از فایل README.md برای پروژه The Divan and the Sword (TDS) آمده است که با ساختار فعلی وب‌سایت، GitHub، ORCID و صفحه Contact هماهنگ است.
 # The Divan and the Sword (TDS)
 
 ![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)
@@ -110,4 +109,3 @@ Citation metadata is available in the **CITATION.cff** file.
 Unless otherwise noted, the scholarly content, documentation, and website materials in this repository are licensed under the **Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)** License.
 
 See the **LICENSE** file for details.
-به نظر من این نسخه برای انتشار عمومی در GitHub کاملاً مناسب است: کوتاه، حرفه‌ای، سازگار با Jekyll، و همسو با هویت پژوهشی پروژه The Divan and the Sword.
