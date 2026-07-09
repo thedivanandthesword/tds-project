@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project Status
-description: Current development status and publication roadmap for The Divan and the Sword.
+description: Current development status and publication roadmap for The Divan and the Sword (TDS).
 permalink: /status/
 ---
 
@@ -19,110 +19,34 @@ _Last updated: 2026-07-09_
 | GitHub Pages | ✅ Active |
 | Documentation | ✅ Complete |
 | Website | ✅ Online |
-| Citation Metadata | ✅ Complete |
+| Citation Metadata | ✅ Complete (Pre-DOI) |
 | License | ✅ CC BY-SA 4.0 |
 | Contact Information | ✅ Available |
 | Version | **v1.0.1** |
-| Release | ⏳ Pending |
-| Zenodo DOI | ⏳ Pending (will be added after registration) |
+| GitHub Release | ⏳ Ready to Publish |
+| Zenodo Integration | ✅ Connected |
+| Zenodo DOI | ⏳ Pending (after release publication) |
 
----
+## Publication Roadmap
 
-## Documentation
-
-The repository currently includes the following core documentation:
-
-- README.md
-- index.md
-- about.md
-- CONTACT.md
-- RELEASE.md
-- RELEASE_GUIDE.md
-- STATUS.md
-- CITATION.cff
-- LICENSE
-
-Additional documentation (when available):
-
-- CHANGELOG.md
-- RELEASE_NOTES/v1.0.1.md
-
----
-
-## Website
-
-Project website:
-
-**https://thedivanandthesword.github.io/tds-project/**
-
----
-
-## Repository
-
-GitHub repository:
-
-**https://github.com/thedivanandthesword/tds-project**
-
----
-
-## Publication Workflow
-
-Current publication sequence:
-
-1. Final repository review
-2. Commit and push changes
-3. Verify GitHub Pages deployment
-4. Create GitHub Release (v1.0.1)
-5. Archive the release with Zenodo
-6. Receive the official DOI
-7. Update project metadata and citation files
-
----
-
-## License
-
-This project is distributed under the
-
-**Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)**
-
----
-
-## Contact
-
-Questions, comments, and scholarly feedback are welcome.
-
-- Email: divan.and.sword@gmail.com
-- GitHub: https://github.com/thedivanandthesword/tds-project
-
----
+1. Publish GitHub Release **v1.0.1**.
+2. Zenodo automatically archives the released version.
+3. Zenodo assigns a DOI.
+4. Update the repository metadata (`CITATION.cff`, `README.md`, `RELEASE.md`, and `STATUS.md`) with the assigned DOI.
+5. Commit and push the DOI update separately to maintain a clear publication history.
 
 ## Citation
 
-Citation metadata is available in **CITATION.cff**.
+Citation metadata is available in `CITATION.cff`.
 
-Following Zenodo registration, the DOI will be added to:
+A Zenodo DOI will be added to the repository after the first official release has been archived by Zenodo.
 
-- CITATION.cff
-- README.md
-- STATUS.md
-- GitHub Release
+## License
 
----
-
-## Project Phase
-
-**Current Phase**
-
-🟢 Documentation Complete
-
-**Next Milestone**
-
-GitHub Release v1.0.1 → Zenodo DOI Registration
+This project is licensed under the Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0).
 
 ---
 
-## Notes
-
-This project is currently in the **Pre-DOI** publication phase.
-
-The first DOI will be registered through Zenodo immediately after the GitHub Release (v1.0.1). Once assigned, all citation metadata and project documentation will be updated accordingly.
+**Project:** The Divan and the Sword (TDS)  
+**Version:** v1.0.1  
+**Last Updated:** 2026-07-09
