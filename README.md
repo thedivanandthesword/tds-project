@@ -1,91 +1,35 @@
----
-layout: default
-title: Roadmap – The Divan and the Sword
-description: Long-term development roadmap of the TDS research project.
----
+# The Divan and the Sword
 
-# Roadmap
+**The Divan and the Sword (TDS)** is an independent scholarly research project dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world.
 
 ## Overview
 
-The Divan and the Sword (TDS) is designed as a long-term scholarly initiative that develops incrementally through documented research, open publication, and sustainable digital infrastructure.
+This project explores the relationship between political authority, administrative institutions, and cultural-intellectual traditions in Iranian and Persianate history.
 
-This roadmap outlines the major areas of future development rather than fixed release schedules.
+## Project Focus
 
----
+- Iranian political tradition
+- Bureaucracy and administrative history
+- Governance and institutional continuity
+- Persianate intellectual and cultural worlds
+- Historical sources and evidence-based scholarship
 
-## Research Development
+## Website
 
-Future research may include:
+Official website:
 
-- Expansion of historical case studies
-- Comparative institutional analysis
-- New thematic investigations
-- Interdisciplinary collaborations
+https://thedivanandthesword.github.io/tds-project/
 
----
+## Contact
 
-## Publications
+Questions, comments, and scholarly feedback are welcome.
 
-Planned scholarly outputs may include:
+Email: divan.and.sword@gmail.com
 
-- Monographs
-- Peer-reviewed journal articles
-- Edited collections
-- Conference papers
-- Research reports
+## Repository Status
 
-Publication timing depends on the completion and verification of research.
+This repository serves as the public documentation and website source for the TDS project.
 
----
+## License
 
-## Digital Scholarship
-
-Future digital initiatives may include:
-
-- Structured datasets
-- Interactive timelines
-- Knowledge graphs
-- Digital editions
-- Research visualization tools
-
----
-
-## Documentation
-
-Project documentation will continue to expand through:
-
-- Architecture Decision Records (ADRs)
-- Governance documents
-- Research documentation
-- Citation resources
-
----
-
-## Community
-
-The project welcomes future scholarly collaboration through:
-
-- Academic partnerships
-- Peer review
-- Research feedback
-- Open scholarly discussion
-
----
-
-## Guiding Principle
-
-Development priorities are determined by documented evidence, scholarly value, and long-term sustainability rather than predetermined release schedules.
-
----
-
-## Related Pages
-
-- Research
-- Publications
-- Documents
-- Resources
-
----
-
-*Long-term scholarship grows through evidence, documentation, and collaboration.*
+See the `LICENSE` file for details.
