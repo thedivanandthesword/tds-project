@@ -1,0 +1,114 @@
+Release Notes – v1.0.1
+
+**Project:** The Divan and the Sword (TDS)  
+**Version:** v1.0.1  
+**Release Date:** 2026-07-09  
+**Status:** First Official Public Release
+
+---
+
+## Overview
+
+Version **v1.0.1** is the first official public release of **The Divan and the Sword (TDS)**. This release establishes the project's documentation baseline, repository structure, GitHub Pages website, and citation framework for long-term scholarly development.
+
+---
+
+## Highlights
+
+- First official public release of the TDS project.
+- Complete project documentation finalized.
+- GitHub Pages website published.
+- Standardized repository structure established.
+- Citation framework implemented through `CITATION.cff`.
+- Project documentation aligned with open scholarly publishing practices.
+- Release workflow documented for future versions.
+- Licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+
+---
+
+## Included Files
+
+- README.md
+- CHANGELOG.md
+- STATUS.md
+- RELEASE.md
+- RELEASE_GUIDE.md
+- RELEASE_NOTES/v1.0.1.md
+- CONTACT.md
+- about.md
+- index.md
+- CITATION.cff
+- _config.yml
+- _layouts/default.html
+
+---
+
+## Repository Features
+
+- GitHub Pages support
+- Jekyll-based documentation website
+- SEO metadata
+- Citation framework
+- Open documentation
+- Version tracking
+- Transparent project governance
+
+---
+
+## Compatibility
+
+- GitHub
+- GitHub Pages
+- Jekyll
+- Zenodo (DOI-ready)
+
+---
+
+## License
+
+This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+
+---
+
+## Citation
+
+Please cite this project using the metadata provided in `CITATION.cff`.
+
+A Zenodo DOI will be added after archival of this release.
+
+---
+
+## Future Development
+
+Future releases may include:
+
+- Zenodo DOI integration
+- Expanded historical datasets
+- Additional documentation
+- Multilingual support
+- New research outputs
+- Website enhancements
+
+---
+
+## Acknowledgements
+
+This release represents the first official public milestone of **The Divan and the Sword (TDS)**. It reflects the project's commitment to transparency, traceability, reproducibility, and open scholarly research.
+
+---
+
+## Verification Status
+
+At the time of publication:
+
+- Documentation finalized.
+- Repository prepared for release.
+- GitHub Pages configured.
+- Zenodo integration pending DOI assignment.
+- DOI metadata will be added in a separate commit after archival.
+
+---
+
+**The Divan and the Sword (TDS)**  
+**Version:** v1.0.1  
+**Release Date:** 2026-07-09
