@@ -1,8 +1,8 @@
-# Release Guide
+# Verify Release
 
-This document describes the official release workflow for The Divan and the Sword (TDS).
+This document provides the official pre-release verification checklist for The Divan and the Sword (TDS).
 
-Following this workflow helps ensure reproducibility, citation stability, and a transparent publication history.
+Complete every verification step before publishing an official GitHub Release.
 
 ---
 
@@ -32,9 +32,9 @@ Proceed to **Step 2: Verify GitHub Pages Build**.
 
 ## 2. Verify GitHub Pages Build
 
-Before publishing a release, confirm that the latest GitHub Pages deployment completed successfully.
+Before publishing a release, verify that the latest GitHub Pages deployment completed successfully.
 
-Open the repository's **Actions** tab and verify that the most recent Pages workflow has finished successfully.
+Open the repository's **Actions** tab and confirm that the most recent Pages workflow finished successfully.
 
 Expected status:
 
@@ -46,48 +46,75 @@ If the build failed, resolve the reported issues, commit the necessary fixes, an
 
 ## Next Step
 
-Proceed to **Step 3: Create a GitHub Release**.
+Proceed to **Step 3: Verify Release Metadata**.
 
 ---
 
-## 3. Create a GitHub Release
+## 3. Verify Release Metadata
 
-Create a new GitHub Release using the next official version tag.
+Review the project's release metadata before publishing.
+
+Verify that the following files are accurate and up to date:
+
+- `README.md`
+- `RELEASE.md`
+- `CHANGELOG.md`
+- `VERSIONING.md`
+- `STATUS.md`
+- `CITATION.cff`
+- `_config.yml`
+
+Ensure that:
+
+- Version numbers are consistent.
+- Links are valid.
+- Documentation is synchronized.
+- Metadata is complete.
+
+## Next Step
+
+Proceed to **Step 4: Publish the GitHub Release**.
+
+---
+
+## 4. Publish the GitHub Release
+
+Create a new GitHub Release using the appropriate version tag.
 
 Example:
 
 - Tag: `v1.0.1`
-- Release title: `TDS v1.0.1 — First Official Release`
+- Title: `TDS v1.0.1 — First Official Release`
 
-Copy the release notes from `RELEASE.md` (or the corresponding release notes document, if applicable).
+Copy the release notes from `RELEASE.md` or the appropriate file in `RELEASE_NOTES/`.
 
-Publish the release only after verifying that the repository is clean and the website build has succeeded.
-
-## Next Step
-
-Proceed to **Step 4: Wait for Zenodo Archiving**.
-
----
-
-## 4. Wait for Zenodo Archiving
-
-After the GitHub Release has been published, Zenodo will archive the release and assign a DOI if repository integration has been enabled.
-
-Verify that:
-
-- the release has been archived successfully;
-- a DOI has been assigned;
-- the archived metadata is correct.
+Publish the release only after all previous verification steps have been completed successfully.
 
 ## Next Step
 
-Proceed to **Step 5: Update Citation Metadata**.
+Proceed to **Step 5: Verify Zenodo Archiving**.
 
 ---
 
-## 5. Update Citation Metadata
+## 5. Verify Zenodo Archiving
 
-After the DOI has been assigned, update the project's citation metadata.
+After publishing the GitHub Release, verify that Zenodo has archived the release successfully.
+
+Confirm that:
+
+- The archive has been created.
+- A DOI has been assigned.
+- Repository metadata is correct.
+
+## Next Step
+
+Proceed to **Step 6: Update DOI Metadata**.
+
+---
+
+## 6. Update DOI Metadata
+
+After receiving the DOI, update the project's citation metadata.
 
 Typical files include:
 
@@ -96,61 +123,8 @@ Typical files include:
 - `RELEASE.md`
 - `STATUS.md`
 
-Commit these metadata updates separately from the release itself.
+Commit these metadata updates separately from the release.
 
 Example:
 
-```bash
-git add CITATION.cff README.md RELEASE.md STATUS.md
-git commit -m "docs: add Zenodo DOI for v1.0.1"
-git push origin main
 ```
-
-## Next Step
-
-Proceed to **Step 6: Verify Repository State**.
-
----
-
-## 6. Verify Repository State
-
-After pushing the metadata update, verify that the repository is clean.
-
-Run:
-
-```bash
-git status
-```
-
-Expected output:
-
-```text
-nothing to commit, working tree clean
-```
-
-Verify that:
-
-- the release is published;
-- the DOI is available;
-- the repository is synchronized;
-- GitHub Pages is operating normally.
-
----
-
-## Related Documentation
-
-- `README.md` — Project overview
-- `VERSIONING.md` — Versioning policy
-- `RELEASE.md` — Release information
-- `CHANGELOG.md` — Project change history
-- `STATUS.md` — Current project status
-- `CITATION.cff` — Citation metadata
-
----
-
-## Notes
-
-- Publish only from a clean repository.
-- Never modify or recreate published release tags.
-- Update DOI metadata in a separate commit.
-- Follow the project's versioning policy for every official release.
