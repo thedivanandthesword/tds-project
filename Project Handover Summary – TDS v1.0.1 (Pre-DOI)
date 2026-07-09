@@ -1,11 +1,74 @@
-## Summary
+# Project Handover Summary — TDS v1.0.1 (Pre-Release)
 
-This document provides an evidence-based summary of the current documented state of **The Divan and the Sword (TDS)** immediately prior to its first official public release (**v1.0.1**).
+**Project:** The Divan and the Sword (TDS)
 
-As of **2026-07-09**, the project is in the **Pre-DOI** phase. The repository structure, core documentation, website configuration, release documentation, and citation metadata have been prepared for the first public release. According to the documented repository state, these materials have been committed to the repository. However, the project's publication process is not yet complete because the first GitHub Release has not been published and a Zenodo DOI has not yet been assigned.
+**Version:** v1.0.1 (Pre-Release)
 
-This handover summary is intended to support project continuity by documenting the current state of the project, identifying the remaining publication milestones, and providing a clear operational roadmap for the transition from the **Pre-DOI** phase to the **Post-DOI** phase.
+**Date:** 2026-07-09
 
-Throughout the project, all status statements are governed by the principles of **Evidence Before Status** and **Traceability**. Project status may be updated only when supported by verifiable evidence. The GitHub repository, Git commit history, GitHub Releases, GitHub Pages, and Zenodo records constitute the authoritative sources for determining the official status of the project.
+---
 
-This document is a coordination and transition record. It summarizes the project's documented state as of **2026-07-09**, supports continuity between project phases, and does not replace the repository or official publication records. Any future revisions to this document should be based solely on verifiable evidence obtained from the project's authoritative records.
+# Executive Summary
+
+The Divan and the Sword (TDS) has reached the final pre-release stage. Repository documentation, metadata, licensing, citation information, and website content have been completed and reviewed.
+
+The repository is ready for its first official public release. The only remaining prerequisite is verification that GitHub Pages has deployed the latest repository state.
+
+The project follows the governance principles of Evidence Before Status, Traceability, Transparency, and Documentation First.
+
+---
+
+# Current Status
+
+Status: **Pre-Release**
+
+Release Status: **HOLD**
+
+Reason:
+
+GitHub Pages has not yet been verified to display the latest published content.
+
+---
+
+# Completed
+
+- Repository structure finalized
+- README.md finalized
+- about.md finalized
+- CONTACT.md finalized
+- STATUS.md finalized
+- RELEASE.md finalized
+- RELEASE_GUIDE.md finalized
+- CHANGELOG.md completed
+- RELEASE_NOTES/v1.0.1.md created
+- CITATION.cff updated
+- LICENSE verified
+- _config.yml reviewed
+- Repository structure image added
+- GitHub status documentation prepared
+
+---
+
+# Repository Information
+
+**Repository**
+
+https://github.com/thedivanandthesword/tds-project
+
+**Website**
+
+https://thedivanandthesword.github.io/tds-project/
+
+**Author**
+
+Hamid Reza Asadian Dehaghani
+
+**ORCID**
+
+https://orcid.org/0009-0001-5921-5698
+
+**Email**
+
+divan.and.sword@gmail.com
+
+**
