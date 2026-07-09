@@ -1,63 +1,32 @@
-# TDS v1.0.1 – Release Status Update
+# GitHub Status — TDS v1.0.1
 
-## Current Status
+| Item | Status |
+|------|--------|
+| **Release Tag** | `v1.0.1` |
+| **Target Branch** | `main` |
+| **GitHub Pages** | ⏳ Pending final verification |
+| **Zenodo Integration** | ✅ Connected – pending archival after release |
+| **DOI** | ⏳ Pending (will be assigned after Zenodo archival) |
+| **Repository State** | ⏳ Pending final `git status` verification |
 
-**Status:** HOLD
+## Required Final Verification
 
-**Project Version:** v1.0.1 (Pre-DOI)
+Before publishing the release, confirm that:
 
-## Reason
+- GitHub Pages is active.
+- The latest GitHub Pages build completed successfully.
+- `git status` returns `nothing to commit, working tree clean`.
 
-The GitHub Pages website has not yet been verified to reflect the latest repository changes. The official release will not be published until the live deployment is confirmed.
+## Post-Release Steps
 
-## Verified
-
-- Documentation prepared for v1.0.1.
-- Changes committed and pushed to the `main` branch.
-- GitHub Pages configuration reviewed.
-- Project metadata updated.
-- Release documentation prepared.
-
-## Pending Verification
-
-- Confirm a new GitHub Pages deployment has completed successfully.
-- Verify the live website reflects the latest repository content.
-- Confirm `index.md` matches the current version.
-- Confirm no stale deployment is being served.
-
-## Release Criteria
-
-The official **v1.0.1** release will be published only after the following conditions are met:
-
-- ✅ GitHub Pages deployment successful
-- ✅ Live website verified
-- ✅ Repository state confirmed
-- ✅ Release package finalized
-
-## Next Steps
-
-1. Verify GitHub Pages deployment.
-2. Confirm website content.
-3. Publish GitHub Release `v1.0.1`.
-4. Archive the release in Zenodo.
-5. Obtain the DOI.
-6. Update project metadata in a separate commit.
+1. Zenodo will automatically archive the release.
+2. A DOI will be assigned.
+3. Update the following files in a separate commit:
+   - `CITATION.cff`
+   - `README.md`
+   - `RELEASE.md`
+   - `STATUS.md`
 
 ---
 
-## Governance Principles
-
-This project follows the principles of:
-
-- Evidence Before Status
-- Traceability
-- Transparency
-- Documentation First
-- Version Stability
-
-No project status is changed without objective evidence.
-
----
-
-**The Divan and the Sword (TDS)**  
-Independent scholarly research project.
+*Status for TDS v1.0.1 — pending final release verification.*
