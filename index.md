@@ -4,57 +4,146 @@ title: The Divan and the Sword
 description: An independent scholarly research project dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world.
 ---
 
-# The Divan and the Sword
+<section class="hero">
+  <div class="container">
 
-**The Divan and the Sword (TDS)** is an independent scholarly research project dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world.
+# The Divan and the <span class="gold">Sword</span>
 
-The project explores the historical relationship between political authority, administrative institutions, intellectual traditions, and cultural production across the Iranian and Persianate worlds. It promotes rigorous scholarship, transparent documentation, and open research practices.
+<p class="subtitle">
+An independent scholarly research project dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world.
+</p>
 
----
+<a class="btn" href="https://github.com/thedivanandthesword/tds-project">
+View Repository
+</a>
+
+  </div>
+</section>
+
+<div class="container">
 
 ## Mission
 
-The mission of TDS is to advance evidence-based research on Iranian political thought, governance, administrative institutions, and historical continuity while promoting transparency, scholarly integrity, and open access to research outputs.
+The Divan and the Sword (TDS) advances rigorous, transparent, and evidence-based research on Iranian political tradition, governance, administrative institutions, and the intellectual heritage of the Persianate world. The project promotes open scholarly documentation, transparent publication practices, and long-term preservation of research outputs.
 
 ---
 
 ## Research Scope
 
-The project focuses on topics including:
+<div class="cards">
 
-- Iranian political tradition
-- Bureaucratic institutions
-- Governance and state formation
-- Administrative history
-- Political legitimacy
-- Persianate civilization
-- Intellectual history
-- Historical methodology
-- Digital humanities
-- Open scholarly documentation
+<div class="card">
+<div class="icon">🏛️</div>
+
+### Political Tradition
+
+Research on Iranian political thought, political authority, legitimacy, kingship, and institutional continuity across historical periods.
+
+</div>
+
+<div class="card">
+<div class="icon">📜</div>
+
+### Bureaucracy
+
+Study of administrative institutions, governance structures, state formation, and bureaucratic practices within the Iranian world.
+
+</div>
+
+<div class="card">
+<div class="icon">🌍</div>
+
+### Persianate World
+
+Exploration of the intellectual, cultural, and political networks that shaped the Persianate civilization across regions and centuries.
+
+</div>
+
+</div>
 
 ---
 
 ## Project Status
 
-**Current Version:** **v1.0.1**
+<div class="cards">
 
-**Release Status:** **First Official Release**
+<div class="card">
 
-The project documentation, governance framework, and publication workflow are maintained through transparent version control and evidence-based documentation.
+### Current Version
+
+**v1.0.1**
+
+First Official Release
+
+</div>
+
+<div class="card">
+
+### Website
+
+GitHub Pages website is active and publicly available.
+
+</div>
+
+<div class="card">
+
+### DOI
+
+Zenodo archival is pending.
+
+A DOI will be added after archival.
+
+</div>
+
+</div>
 
 ---
 
 ## Project Resources
 
-- [About]({{ '/about/' | relative_url }})
-- [Project Status]({{ '/STATUS.html' | relative_url }})
-- [Release Information]({{ '/RELEASE.html' | relative_url }})
-- [Release Guide]({{ '/RELEASE_GUIDE.html' | relative_url }})
-- [Release Notes]({{ '/RELEASE_NOTES/v1.0.1.html' | relative_url }})
-- [GitHub Release]({{ '/GITHUB_RELEASE.html' | relative_url }})
-- [GitHub Status]({{ '/GITHUB_STATUS.html' | relative_url }})
-- [Contact]({{ '/contact/' | relative_url }})
+<div class="cards">
+
+<div class="card">
+
+### About
+
+Learn about the project's mission, governance framework, and long-term vision.
+
+<a href="{{ '/about/' | relative_url }}">Read More →</a>
+
+</div>
+
+<div class="card">
+
+### Project Status
+
+Current development status, governance information, and project milestones.
+
+<a href="{{ '/status/' | relative_url }}">View Status →</a>
+
+</div>
+
+<div class="card">
+
+### Releases
+
+Release information, release notes, and version history.
+
+<a href="{{ '/RELEASE.html' | relative_url }}">View Releases →</a>
+
+</div>
+
+<div class="card">
+
+### Contact
+
+Contact information for scholarly correspondence, collaboration, and feedback.
+
+<a href="{{ '/contact/' | relative_url }}">Contact →</a>
+
+</div>
+
+</div>
 
 ---
 
@@ -68,7 +157,7 @@ A Zenodo DOI will be added after archival of the first official release.
 
 ## License
 
-Unless otherwise stated, the project documentation is distributed under the **Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)** License.
+Unless otherwise stated, project documentation is distributed under the **Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)** License.
 
 ---
 
@@ -84,19 +173,6 @@ https://thedivanandthesword.github.io/tds-project/
 
 ---
 
-## Contact
-
-For scholarly correspondence, collaboration, or feedback:
-
-**Email:** divan.and.sword@gmail.com
-
-**ORCID:** https://orcid.org/0009-0001-5921-5698
-
----
-
-**Version:** v1.0.1  
-**Last Updated:** 2026-07-09
-
----
-
 *The Divan and the Sword is committed to transparent, evidence-based, and openly documented scholarship.*
+
+</div>
