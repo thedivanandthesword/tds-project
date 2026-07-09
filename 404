@@ -1,0 +1,28 @@
+---
+layout: default
+title: Page Not Found
+description: The requested page could not be found.
+permalink: /404.html
+---
+
+# 404 – Page Not Found
+
+The page you are looking for could not be found.
+
+The requested page may have been moved, renamed, or is no longer available.
+
+## Helpful Links
+
+- [Home]({{ '/' | relative_url }})
+- [About]({{ '/about/' | relative_url }})
+- [Project Status]({{ '/status/' | relative_url }})
+- [Project Repository](https://github.com/thedivanandthesword/tds-project)
+- [Contact]({{ '/contact/' | relative_url }})
+
+If you believe this is an error, please report it through the project's GitHub repository or contact the project via the official email address.
+
+**Email:** [divan.and.sword@gmail.com](mailto:divan.and.sword@gmail.com)
+
+---
+
+*The Divan and the Sword (TDS)*
