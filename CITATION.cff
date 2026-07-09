@@ -34,18 +34,20 @@ keywords:
   - Administrative history
   - Persianate world
   - Political institutions
-  - Institutional continuity
-  - Political history
-  - State formation
-  - Open scholarship
 
 preferred-citation:
-  type: book
+  type: software
   authors:
     - family-names: "Asadian Dehaghani"
       given-names: "Hamidreza"
       orcid: "https://orcid.org/0009-0001-5921-5698"
   title: "The Divan and the Sword"
   version: "1.0.1"
-  year: 2026
+  date-released: 2026-07-09
   url: "https://thedivanandthesword.github.io/tds-project/"
+
+After Zenodo assigns a DOI
+
+Add the following field in both the top-level metadata and the preferred-citation section:
+
+doi: "10.xxxx/zenodo.xxxxxxx"
