@@ -1,51 +1,58 @@
 ---
 layout: default
-title: About: The Divan and the Sword
+title: About The Divan and the Sword
 description: Learn about the mission, vision, governance, and long-term goals of The Divan and the Sword (TDS).
+permalink: /about/
 ---
 
 # About The Divan and the Sword
 
 ## Overview
 
-**The Divan and the Sword (TDS)** is an independent scholarly research project dedicated to the study of Iranian political tradition, administrative history, institutional continuity, and the intellectual heritage of the Persianate world. The project examines the relationship between poetic expression and political authority as a lens for understanding governance, institutional continuity, and cultural production across historical periods.
+**The Divan and the Sword (TDS)** is an independent scholarly research project dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world. The project investigates the historical development of political authority, administrative institutions, and statecraft through transparent, evidence-based scholarship.
 
 ## Mission
 
-The mission of TDS is to advance rigorous scholarship on governance, political authority, and administrative institutions in the Iranian tradition while promoting transparent research practices and openly documented scholarship.
+The mission of TDS is to advance rigorous scholarship on governance, political authority, and administrative institutions in the Iranian tradition while promoting transparent research practices, openly documented scholarship, and responsible scholarly communication.
 
 ## Vision
 
-TDS envisions a future where research on Iranian political tradition and Persianate intellectual heritage is:
+TDS envisions a future where research on Iranian political tradition and the Persianate world is:
 
 - **Openly accessible**
 - **Reproducible**
 - **Transparent in its methods and sources**
 - **Supported by sustainable digital infrastructure**
 - **Open to scholarly collaboration**
-- **Long-term preservation of research outputs**
+- **Committed to the long-term preservation of research outputs**
 
 ## Project Governance
 
-Project governance is documented through dedicated governance documents and Architecture Decision Records (ADRs).
+Project governance is documented through project documentation, governance policies, and Architecture Decision Records (ADRs), which are maintained in the Project Repository.
 
-The website provides an overview of the project, while the repository serves as the primary record for governance, documentation, and architectural decisions.
+The website provides an overview of the project, while the Project Repository serves as the primary record for governance, documentation, architecture, and project development.
 
 ## Contact
 
 Questions, comments, and scholarly feedback are welcome.
 
-- **GitHub:** [The Divan and the Sword Repository](https://github.com/thedivanandthesword/tds-project)
-- **Email:** [divan.and.sword@gmail.com](mailto:divan.and.sword@gmail.com)
+- **Website:** <https://thedivanandthesword.github.io/tds-project/>
+- **Repository:** <https://github.com/thedivanandthesword/tds-project>
+- **Email:** <mailto:divan.and.sword@gmail.com>
 
 ## Related Pages
 
-- [Home]({{ '/index.html' | relative_url }})
-- [Research]({{ '/research.html' | relative_url }})
-- [Book]({{ '/book.html' | relative_url }})
-- [Documents]({{ '/documents.html' | relative_url }})
-- [Roadmap]({{ '/roadmap.html' | relative_url }})
+- [Home]({{ "/" | relative_url }})
+- [Contact]({{ "/contact/" | relative_url }})
+
+## License
+
+The Divan and the Sword is distributed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+
+## Citation
+
+Citation information is available through the project's **CITATION.cff** file in the Project Repository.
 
 ---
 
-*Committed to transparent, evidence-based scholarship on Iranian political tradition and the Persianate world.*
+*The Divan and the Sword is committed to transparent, evidence-based scholarship and the long-term study of Iranian political tradition, governance, bureaucracy, and the Persianate world.*
