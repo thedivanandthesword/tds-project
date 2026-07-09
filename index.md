@@ -37,39 +37,50 @@ The project focuses on topics including:
 
 ## Project Status
 
-Current release:
+**Current Version:** **v1.0.1**
 
-**Version:** v1.0.1
+**Release Status:** **First Official Release**
 
-Status:
-
-**First Official Release**
-
-The project documentation, governance framework, and publication workflow have been established and are maintained through transparent version control.
+The project documentation, governance framework, and publication workflow are maintained through transparent version control and evidence-based documentation.
 
 ---
 
 ## Project Resources
 
-- [About](about.html)
-- [Project Status](STATUS.html)
-- [Release Notes](RELEASE.html)
-- [Contact](CONTACT.html)
-- [GitHub Repository](https://github.com/thedivanandthesword/tds-project)
+- [About]({{ '/about/' | relative_url }})
+- [Project Status]({{ '/STATUS.html' | relative_url }})
+- [Release Information]({{ '/RELEASE.html' | relative_url }})
+- [Release Guide]({{ '/RELEASE_GUIDE.html' | relative_url }})
+- [Release Notes]({{ '/RELEASE_NOTES/v1.0.1.html' | relative_url }})
+- [GitHub Release]({{ '/GITHUB_RELEASE.html' | relative_url }})
+- [GitHub Status]({{ '/GITHUB_STATUS.html' | relative_url }})
+- [Contact]({{ '/contact/' | relative_url }})
 
 ---
 
 ## Citation
 
-Citation metadata is provided in the `CITATION.cff` file.
+Citation metadata is available in the `CITATION.cff` file.
 
-A Zenodo DOI will be added after archival of the official release.
+A Zenodo DOI will be added after archival of the first official release.
 
 ---
 
 ## License
 
-Unless otherwise stated, project documentation is distributed under the Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0) License.
+Unless otherwise stated, the project documentation is distributed under the **Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)** License.
+
+---
+
+## Repository
+
+**GitHub Repository**
+
+https://github.com/thedivanandthesword/tds-project
+
+**Project Website**
+
+https://thedivanandthesword.github.io/tds-project/
 
 ---
 
@@ -79,11 +90,12 @@ For scholarly correspondence, collaboration, or feedback:
 
 **Email:** divan.and.sword@gmail.com
 
-**Website:**
-https://thedivanandthesword.github.io/tds-project/
+**ORCID:** https://orcid.org/0009-0001-5921-5698
 
-**GitHub:**
-https://github.com/thedivanandthesword/tds-project
+---
+
+**Version:** v1.0.1  
+**Last Updated:** 2026-07-09
 
 ---
 
