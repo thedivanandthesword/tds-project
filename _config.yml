@@ -1,5 +1,6 @@
 title: "The Divan and the Sword"
-description: "An independent scholarly research project on Iranian political tradition, bureaucracy, governance, and the Persianate world."
+
+description: "An independent scholarly research project dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world."
 
 url: "https://thedivanandthesword.github.io"
 baseurl: "/tds-project"
@@ -14,7 +15,6 @@ author:
 github:
   username: "thedivanandthesword"
   repository: "tds-project"
-  pages_url: "https://thedivanandthesword.github.io/tds-project/"
 
 license:
   name: "Creative Commons Attribution-ShareAlike 4.0 International"
@@ -22,30 +22,21 @@ license:
   url: "https://creativecommons.org/licenses/by-sa/4.0/"
 
 project:
-  status: "active"
+  name: "The Divan and the Sword"
+  acronym: "TDS"
   version: "1.0.1"
-  release: "v1.0.1"
-  release_title: "Public Scholarly Release"
-
-zenodo:
-  enabled: true
-  doi: ""
 
 social:
-  preview_image: "/assets/images/social-preview.png"
-  logo: "/assets/images/logo/tds-logo.png"
+  email: "divan.and.sword@gmail.com"
+  github: "https://github.com/thedivanandthesword/tds-project"
+  website: "https://thedivanandthesword.github.io/tds-project/"
+  facebook: "https://www.facebook.com/thedivanandthesword"
+  instagram: "https://www.instagram.com/thedivanandthesword/"
+  orcid: "https://orcid.org/0009-0001-5921-5698"
 
-keywords:
-  - Iranian political tradition
-  - Iranian studies
-  - Persianate world
-  - bureaucracy
-  - governance
-  - administrative history
-  - political thought
-  - state formation
-  - historical sociology
-  - digital humanities
+logo: "/assets/images/logo/tds-logo.png"
+
+keywords: "Iranian studies, political tradition, bureaucracy, governance, Persianate world, administrative history, political history, digital humanities"
 
 header_pages:
   - index.md
@@ -54,12 +45,11 @@ header_pages:
   - book.md
   - documents.md
   - roadmap.md
-  - contact.md
+  - CONTACT.md
 
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-
 timezone: Europe/Berlin
 lang: en
 
@@ -67,9 +57,3 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
