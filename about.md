@@ -1,58 +1,79 @@
 ---
 layout: default
-title: About The Divan and the Sword
-description: Learn about the mission, vision, governance, and long-term goals of The Divan and the Sword (TDS).
+title: About — The Divan and the Sword (TDS)
+description: Learn about the mission, governance, and long-term goals of The Divan and the Sword (TDS).
 permalink: /about/
 ---
 
-# About The Divan and the Sword
+# About The Divan and the Sword (TDS)
 
 ## Overview
 
-**The Divan and the Sword (TDS)** is an independent scholarly research project dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world. The project investigates the historical development of political authority, administrative institutions, and statecraft through transparent, evidence-based scholarship.
+**The Divan and the Sword (TDS)** is an independent scholarly research project dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world.
+
+The project investigates the historical development of political authority, administrative institutions, and statecraft through transparent, evidence-based scholarship.
 
 ## Mission
 
-The mission of TDS is to advance rigorous scholarship on governance, political authority, and administrative institutions in the Iranian tradition while promoting transparent research practices, openly documented scholarship, and responsible scholarly communication.
+The mission of TDS is to advance rigorous, evidence-based research on Iranian political tradition, administrative history, and governance while promoting transparency, reproducibility, openness, and responsible scholarly communication.
 
 ## Vision
 
-TDS envisions a future where research on Iranian political tradition and the Persianate world is:
+TDS aims to serve as an open, sustainable, and trusted scholarly resource for the study of governance, political institutions, and the historical development of the Iranian and Persianate worlds.
 
-- **Openly accessible**
-- **Reproducible**
-- **Transparent in its methods and sources**
-- **Supported by sustainable digital infrastructure**
-- **Open to scholarly collaboration**
-- **Committed to the long-term preservation of research outputs**
+## Research Scope
 
-## Project Governance
+The project focuses on:
 
-Project governance is documented through project documentation, governance policies, and Architecture Decision Records (ADRs), which are maintained in the Project Repository.
+- Iranian political tradition
+- Administrative and bureaucratic history
+- Governance and state institutions
+- Political authority and legitimacy
+- Institutional continuity and change
+- The Persianate world
+- Historical source analysis
+- Research methodology and documentation
 
-The website provides an overview of the project, while the Project Repository serves as the primary record for governance, documentation, architecture, and project development.
+## Core Principles
 
-## Contact
+The project is guided by the following principles:
 
-Questions, comments, and scholarly feedback are welcome.
+- Evidence Before Status
+- Transparency
+- Traceability
+- Reproducibility
+- Documentation First
+- Version Stability
 
-- **Website:** <https://thedivanandthesword.github.io/tds-project/>
-- **Repository:** <https://github.com/thedivanandthesword/tds-project>
-- **Email:** <mailto:divan.and.sword@gmail.com>
+## Open Scholarship
 
-## Related Pages
+TDS is committed to open scholarly practices through:
+
+- Public documentation
+- Version-controlled development
+- Citation metadata
+- Open licensing
+- Long-term preservation through Zenodo
+
+## Project Resources
 
 - [Home]({{ "/" | relative_url }})
-- [Contact]({{ "/contact/" | relative_url }})
-
-## License
-
-The Divan and the Sword is distributed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+- [Project Status](STATUS.md)
+- [Release Information](RELEASE.md)
+- [Contact](CONTACT.md)
+- [GitHub Repository](https://github.com/thedivanandthesword/tds-project)
 
 ## Citation
 
-Citation information is available through the project's **CITATION.cff** file in the Project Repository.
+Citation metadata is available in `CITATION.cff`.
+
+A Zenodo DOI will be added after the first official release.
+
+## License
+
+This project is licensed under the Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0).
 
 ---
 
-*The Divan and the Sword is committed to transparent, evidence-based scholarship and the long-term study of Iranian political tradition, governance, bureaucracy, and the Persianate world.*
+**Version:** v1.0.1  
+**Last Updated:** 2026-07-09
