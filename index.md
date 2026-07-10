@@ -1,148 +1,69 @@
 ---
 layout: default
-title: Home
-description: The official website of The Divan and the Sword (TDS)
+title: The Divan and the Sword
+permalink: /
+nav_order: 1
 ---
 
-<section class="hero">
-
-# The Divan and the Sword
-
-### An Independent Scholarly Research Project
-
-Dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world.
-
-[About the Project]({{ '/about/' | relative_url }})
-
-</section>
-
----
-
-## Mission
-
-The Divan and the Sword (TDS) is an independent scholarly research project dedicated to advancing evidence-based research on Iranian political thought, administrative history, institutional continuity, and the Persianate world.
-
-The project promotes transparent documentation, open scholarship, and reproducible research practices.
-
----
-
-## Research Scope
-
-<div class="card-grid">
-
-<div class="card">
-
-### Political Tradition
-
-Research on Iranian political thought, legitimacy, and historical governance.
-
+<!-- Hero Section -->
+<div class="hero">
+  <h1>The Divan and the Sword</h1>
+  <p class="subtitle">An Independent Scholarly Research Project</p>
+  <p class="description">
+    Dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world.
+  </p>
+  <div class="hero-buttons">
+    <a href="{{ '/about/' | relative_url }}" class="btn btn-primary">About the Project</a>
+    <a href="{{ '/status/' | relative_url }}" class="btn btn-secondary">Current Status</a>
+    <a href="https://github.com/thedivanandthesword/tds-project" class="btn btn-secondary">Repository</a>
+  </div>
 </div>
 
-<div class="card">
-
-### Bureaucracy
-
-Study of administrative institutions, state formation, and bureaucratic continuity.
-
+<!-- Quick Overview Cards -->
+<div class="cards-grid">
+  <div class="card">
+    <h3>📖 About</h3>
+    <p>Learn about the mission, vision, and core principles of the TDS project.</p>
+    <a href="{{ '/about/' | relative_url }}" class="card-link">Read More →</a>
+  </div>
+  <div class="card">
+    <h3>📊 Status</h3>
+    <p>View the dynamic, evidence-based status of the project's development phases.</p>
+    <a href="{{ '/status/' | relative_url }}" class="card-link">View Status →</a>
+  </div>
+  <div class="card">
+    <h3>📚 Citation</h3>
+    <p>How to cite the project in scholarly publications. See the <a href="https://github.com/thedivanandthesword/tds-project/blob/main/CITATION.cff">CITATION.cff</a> file for full metadata.</p>
+    <a href="https://github.com/thedivanandthesword/tds-project#readme" class="card-link">View Documentation →</a>
+  </div>
+  <div class="card">
+    <h3>📬 Contact</h3>
+    <p>Get in touch through official channels and collaboration protocols.</p>
+    <a href="{{ '/contact/' | relative_url }}" class="card-link">Contact Us →</a>
+  </div>
 </div>
 
-<div class="card">
+<!-- Project Snapshot -->
+## 🧭 Project Snapshot
 
-### Persianate World
-
-Analysis of intellectual history, cultural exchange, and political institutions.
-
-</div>
-
-</div>
-
----
-
-## Project Status
-
-<div class="card-grid">
-
-<div class="card">
-
-### Current Version
-
-**v1.1.0**
-
-</div>
-
-<div class="card">
-
-### Website
-
-GitHub Pages
-
-</div>
-
-<div class="card">
-
-### DOI
-
-Pending (Zenodo)
-
-</div>
-
-</div>
+| **Aspect** | **Details** |
+| :--- | :--- |
+| **Latest Release** | See [GitHub Releases](https://github.com/thedivanandthesword/tds-project/releases) |
+| **DOI** | See [CITATION.cff](https://github.com/thedivanandthesword/tds-project/blob/main/CITATION.cff) |
+| **License** | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| **Repository** | [GitHub](https://github.com/thedivanandthesword/tds-project) |
+| **Live Website** | [thedivanandthesword.github.io/tds-project/](https://thedivanandthesword.github.io/tds-project/) |
 
 ---
 
-## Project Resources
+## 📌 Quick Links
 
-<div class="card-grid">
-
-<div class="card">
-
-### About
-
-[Project Overview]({{ '/about/' | relative_url }})
-
-</div>
-
-<div class="card">
-
-### Status
-
-[Project Status]({{ '/STATUS/' | relative_url }})
-
-</div>
-
-<div class="card">
-
-### Releases
-
-[Release Notes](https://github.com/thedivanandthesword/tds-project/releases)
-
-</div>
-
-<div class="card">
-
-### Contact
-
-[Contact Information]({{ '/CONTACT/' | relative_url }})
-
-</div>
-
-</div>
+- [About the Project]({{ '/about/' | relative_url }})
+- [Project Status]({{ '/status/' | relative_url }})
+- [Contact & Communication]({{ '/contact/' | relative_url }})
+- [Repository](https://github.com/thedivanandthesword/tds-project)
+- [Releases](https://github.com/thedivanandthesword/tds-project/releases)
 
 ---
 
-## Citation
-
-If you use this project in scholarly work, please cite it using the metadata provided in **CITATION.cff**.
-
----
-
-## License
-
-This project is distributed under the **Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)** License.
-
----
-
-**The Divan and the Sword (TDS)**  
-Independent Scholarly Research Project
-
-© 2026 Hamid Reza Asadian Dehaghani
+*For the latest project information, please refer to [STATUS.md]({{ '/status/' | relative_url }}) and the [GitHub Releases](https://github.com/thedivanandthesword/tds-project/releases) page.*
