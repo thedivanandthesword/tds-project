@@ -1,71 +1,88 @@
+# ============================================================
+# Site Settings
+# ============================================================
 title: "The Divan and the Sword"
 
-description: "An independent scholarly research project dedicated to the study of Iranian political tradition, bureaucracy, governance, and the Persianate world."
+description: >
+  An independent scholarly research project dedicated to the study of Iranian
+  political tradition, bureaucracy, governance, and the Persianate world.
 
 url: "https://thedivanandthesword.github.io"
 baseurl: "/tds-project"
-
 repository: "thedivanandthesword/tds-project"
 
+lang: "en"
+timezone: "Europe/Berlin"
+
+# ============================================================
+# Author
+# ============================================================
 author:
-  name: "Hamidreza Asadian Dehaghani"
+  name: "Hamid Reza Asadian Dehaghani"
   email: "divan.and.sword@gmail.com"
   orcid: "https://orcid.org/0009-0001-5921-5698"
 
-github:
-  username: "thedivanandthesword"
-  repository: "tds-project"
-
-license:
-  name: "Creative Commons Attribution-ShareAlike 4.0 International"
-  short_name: "CC BY-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-sa/4.0/"
-
-theme: minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
+# ============================================================
+# Build Settings
+# ============================================================
 markdown: kramdown
 highlighter: rouge
-
 permalink: pretty
 
-timezone: "Europe/Berlin"
-lang: "en"
-
-show_downloads: false
-
+# ============================================================
+# Defaults
+# ============================================================
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: default
 
+# ============================================================
+# Excluded Files
+# ============================================================
 exclude:
+  - .git/
+  - .github/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
   - README.md
   - LICENSE
-  - RELEASE_GUIDE.md
-  - VERIFY_RELEASE.md
-  - GITHUB_RELEASE.md
-  - GITHUB_STATUS.md
-  - CHANGELOG.md
-  - VERSIONING.md
   - CITATION.cff
+  - CHANGELOG.md
+  - RELEASE.md
+  - RELEASE_GUIDE.md
+  - VERSIONING.md
+  - ROADMAP.md
+  - GITHUB_PAGES.md
+  - RELEASE_NOTES/
 
-collections: {}
+# ============================================================
+# Plugins (GitHub Pages Compatible)
+# ============================================================
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-version: "1.0.1"
-release: "First Official Release"
-last_updated: "2026-07-09"
-
+# ============================================================
+# SEO
+# ============================================================
 logo: "/assets/images/logo/tds-logo.png"
 
-footer_links:
-  repository: "https://github.com/thedivanandthesword/tds-project"
-  website: "https://thedivanandthesword.github.io/tds-project/"
-  contact: "mailto:divan.and.sword@gmail.com"
-  orcid: "https://orcid.org/0009-0001-5921-5698"
+twitter:
+  card: summary
+
+social:
+  name: "Hamid Reza Asadian Dehaghani"
+  links:
+    - "https://orcid.org/0009-0001-5921-5698"
+    - "https://github.com/thedivanandthesword"
+
+# ============================================================
+# GitHub
+# ============================================================
+github:
+  username: "thedivanandthesword"
+  repository: "tds-project"
